@@ -1,0 +1,27 @@
+ul{
+	list-style-type: none;
+	width: 720px;
+	padding: 0;
+	margin: 0;
+}
+ul li{
+	float: left;
+	background:url(../imagens/aba-direita.png) no-repeat top right;
+}
+li a{
+	background: url(../imagens/aba-esquerda.png) no-repeat top left;
+	display: block;
+	padding: 0 2em;
+	line-height: 3em;
+	text-decoration: none;
+	color: white;
+}
+ul a:hover{
+	color: #894a1f;
+}
+ul #atual{
+	background:url(../imagens/aba-direita-atual.png) no-repeat top right;
+}
+ul #atual a{
+	background: url(../imagens/aba-esquerda-atual.png) no-repeat top left;
+}

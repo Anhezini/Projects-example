@@ -1,0 +1,59 @@
+/*ul{
+	list-style-type: none;
+	margin: 0;
+	padding: 0px;
+}
+li{
+	padding: 20px;
+	background: url(../imagens/seta.png);
+}*/
+ul{
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+}
+ul#navegaçao-vertical a{
+	display: block;
+	width: 160px;
+	color: black;
+	line-height: 40px;
+	text-decoration: none;
+	text-indent: 20px;
+	height: 40px;
+	padding: 5px 20px;
+	background: url(../imagens/menu.png) left bottom;
+}
+#navegaçao-vertical a:hover, #navegaçao-vertical .selecionado a{
+	background-position: right bottom;
+	color: white;
+}
+ul#navegaçao-horizontal{
+	width: 720px;
+	float: left;
+	background: url(../imagens/fundo-horizontal.png) repeat-x;
+}
+ul#navegaçao-horizontal a{
+	color: white;
+	float: left;
+	padding:0 2em;
+	text-decoration: none;
+	line-height: 2em;
+	background:url(../imagens/divisor.png) repeat-y;
+	display: block;
+}
+ul#navegaçao-horizontal li{
+	float: left;
+}
+ul#navegaçao-horizontal .primeiro a{
+	background: none;
+}
+ul#navegaçao-horizontal a:hover{
+	color: #085662;
+	background: #44cade;
+}
+#home #navegaçao-horizontal .home a,
+#sobre #navegaçao-horizontal .sobre a,
+#contato #navegaçao-horizontal .contato a{
+	color: #085662;
+	background: #44cade;
+}
