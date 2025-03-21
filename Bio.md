@@ -8,7 +8,7 @@ Como hobbie pratico basquete e amo futebol, além de games em geral.
 ## 🎓 Educação  
 - 🎓 Ciência da Computação – [Faculdade Descomplica] ( 2025 - Cursando no momento )  
 - 📚 **Cursos e Certificações:**  
-  - Desenvoilvimento web completo - [Udemy]  
+  - Desenvolvimento web completo - [Udemy]  
   - Espanhol - [C.E.L.]
   - Ingles - [Microcamp]
   - Logistica - [Etec DR. Julio Cardoso - Centro Paula Souza]  
@@ -30,7 +30,7 @@ Como hobbie pratico basquete e amo futebol, além de games em geral.
 
 ## 📬 Contato  
 - 📧 Email: felipesanhezini@gmail.com  
-- 🔗 [LinkedIn] www.linkedin.com/in/felipe-silverio-anhezini | [GitHub]   
+- 🔗 [LinkedIn] www.linkedin.com/in/felipe-silverio-anhezini | [GitHub] https://github.com/Anhezini  
 
 ---  
 ⭐ *Obrigado por ler minha biografia! Entre em contato para conectar!*  
